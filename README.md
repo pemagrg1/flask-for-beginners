@@ -16,6 +16,7 @@ The static folder will have your CSS and images while templates will hold your H
 
 #### INSTALLATION GUIDE:
 open your terminal and
+
 ` git clone https://github.com/pemagrg1/flask-for-beginners.git`
 
 `cd flask-for-beginners`
