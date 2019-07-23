@@ -22,3 +22,8 @@ open your terminal and
 `cd flask-for-beginners`
 
 `$ python3 api.py`
+
+
+## for FULL NLP flask website:
+
+Download from : https://github.com/pemagrg1/NLP-Flask-Website
