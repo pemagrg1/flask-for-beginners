@@ -1,3 +1,5 @@
+Created Date: 30 Jan 2019
+
 # Getting started with Flask
 An easy way to get started with Flask for Beginners
 Working with Flask (a micro web framework written in python) was one of the things that I really wanted to try but was never able to 😕
